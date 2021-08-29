@@ -24,11 +24,21 @@ let DATA = {
   * B - We ask Mustache to render our file with the data
   * C - We create a README.md file with the generated output
   */
+
 function generateReadMe() {
   fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
     if (err) throw err;
     const output = Mustache.render(data.toString(), DATA);
     fs.writeFileSync('README.md', output);
+    fs.writeFileSync('index.html', 
+    `<!DOCTYPE html>
+        <html>
+            <head>
+                <title>Profile Github</title>
+            </head>
+            <body>${output}</body>
+        </html>
+    `);
   });
 }
 generateReadMe();
