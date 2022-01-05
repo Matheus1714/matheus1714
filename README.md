@@ -76,4 +76,4 @@
 
 <h3>Codewars Rank</h3>
 
-![alt rank](https://www.codewars.com/users/Matheus1714/badges/large)
+![alt rank](https://www.codewars.com/users/matheus1714/badges/large)
