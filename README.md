@@ -73,3 +73,7 @@
 <h3>My git stats</h3>
 
 ![matheus1714's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus1714&show_icons=true&theme=radical)
+
+<h3>Codewars Rank</h3>
+
+![alt rank](https://www.codewars.com/users/Matheus1714/badges/large)
