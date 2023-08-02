@@ -30,14 +30,7 @@
 </p>
 
 
-<h3>My blogs on the Medium</h3>
-<ul>
-    <li>
-        <a href="https://medium.com/@matheus1714">
-            <b>Ranbookm</b>
-        </a><br/><i>My first blog. Comment on various subjects in the format of posts.</i>
-    </li>
-</ul>
+<h3>My blogs on the <a href="https://medium.com/@matheus1714"><b>Medium</b></a></h3>
 
 <h3>Where to find me</h3>
 <p>
