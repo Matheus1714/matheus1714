@@ -33,24 +33,9 @@
 <h3>My blogs on the Medium</h3>
 <ul>
     <li>
-        <a href="https://medium.com/ranbookm">
+        <a href="https://medium.com/@matheus1714">
             <b>Ranbookm</b>
         </a><br/><i>My first blog. Comment on various subjects in the format of posts.</i>
-    </li>
-    <li>
-        <a href="https://medium.com/matheus-mota-ita-t-22">
-            <b>Matheus Mota ITA T-22</b>
-        </a><br/><i>Comment about my time in college and experiences I had.</i>
-    </li>
-    <li>
-        <a href="https://medium.com/matheus-mota-aesp-ita">
-            <b>Matheus Mota AESP ITA</b>
-        </a><br/><i>I summarize the subjects I study.</i>
-    </li>
-    <li>
-        <a href="https://medium.com/business-applications-ita">
-            <b>Business Application ITA</b>
-        </a><br/><i>Talks about technologies on the market and tips.</i>
     </li>
 </ul>
 
