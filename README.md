@@ -52,6 +52,8 @@
 
 ![matheus1714's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus1714&show_icons=true&theme=radical)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus1714&hide=ruby,%20vue,jupyter%20notebook,%20HTML&langs_count=8&layout=compact)
+
 <h3>Codewars Rank</h3>
 
 ![alt rank](https://www.codewars.com/users/matheus1714/badges/large)
