@@ -52,8 +52,6 @@
 
 ![matheus1714's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus1714&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheus1714)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3>Codewars Rank</h3>
 
 ![alt rank](https://www.codewars.com/users/matheus1714/badges/large)
