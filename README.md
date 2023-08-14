@@ -1,18 +1,15 @@
-<!-- My name is Matheus Mota and today is sábado, 28 de agosto 23:32 BRT. -->
+<h1><img src="img/pinguin.gif" width="50"/> Hello!</h1>
 
-<h1><img src="img/pinguin.gif" width="50"/> Hello!!!</h1>
+<p>Welcome to my profile! I'm Matheus Mota, a Fullstack developer from <img src="img/brazil.png" width="13"/> and a student of Aerospace Engineering at ITA. 🚀</p>
 
+<p>I really enjoy developing web and mobile applications. Additionally, I've worked on projects related to Machine Learning during my college years.</p>
 
-<p>Welcome to my profile! </br> I'm Matheus Mota, Fullstack developer from <img src="img/brazil.png" width="13"/> and a student of Aerospace Engineering at ITA. 🚀 </p>
-
-<p>I really like to develop web and mobile applications. In addition, I've done projects related to Machine Learning also in college.</p>
-
-<h3>Things I code with</h3>
+<h3>Languages and Technologies</h3>
 <p>
 <!-- Badges: https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!-- <img alt="language_name" src="url" /> -->
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -29,10 +26,9 @@
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
+<h3>My Articles on <a href="https://medium.com/@matheus1714"><b>Medium</b></a></h3>
 
-<h3>My blogs on the <a href="https://medium.com/@matheus1714"><b>Medium</b></a></h3>
-
-<h3>Where to find me</h3>
+<h3>Where to Find Me</h3>
 <p>
     <a href="https://github.com/Matheus1714" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
@@ -48,12 +44,11 @@
     </a>
 </p>
 
-<h3>My git stats</h3>
+<h3>My GitHub Stats</h3>
 
-![matheus1714's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus1714&show_icons=true&theme=radical)
+![matheus1714's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus1714&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus1714&hide=ruby,%20vue,jupyter%20notebook,%20HTML&langs_count=8&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus1714&hide=ruby,%20vue,jupyter%20notebook,%20HTML&langs_count=8&layout=compact)
 
 <h3>Codewars Rank</h3>
 
-![alt rank](https://www.codewars.com/users/matheus1714/badges/large)
+![Codewars Rank](https://www.codewars.com/users/matheus1714/badges/large)
