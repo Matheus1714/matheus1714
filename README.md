@@ -26,8 +26,6 @@
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-<h3>My Articles on <a href="https://medium.com/@matheus1714"><b>Medium</b></a></h3>
-
 <h3>Where to Find Me</h3>
 <p>
     <a href="https://github.com/Matheus1714" target="_blank">
