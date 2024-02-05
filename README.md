@@ -1,6 +1,8 @@
-<h1><img src="img/pinguin.gif" width="50"/> Hello!</h1>
+<img align="right" height="590em" src="https://github.com/Matheus1714/matheus1714/assets/39354089/41451d9a-9d8d-4957-8f81-58451cd9a9ee">
 
-<p>Welcome to my profile! I'm Matheus Mota, a Fullstack developer from <img src="img/brazil.png" width="13"/> and a student of Aerospace Engineering at ITA. 🚀</p>
+<h1>Hello! I'm Matheus Mota</h1>
+
+<p>Welcome to my profile! I'm a Fullstack Developer from <img src="img/brazil.png" width="13"/> and an Aerospace Engineering at ITA, focused in Computer Science and Web Systems. 🚀</p>
 
 <p>I really enjoy developing web and mobile applications. Additionally, I've worked on projects related to Machine Learning during my college years.</p>
 
@@ -44,9 +46,4 @@
 
 <h3>My GitHub Stats</h3>
 
-![matheus1714's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus1714&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus1714&langs_count=15&layout=compact)
-
-
-<h3>Codewars Rank</h3>
-
-![Codewars Rank](https://www.codewars.com/users/matheus1714/badges/large)
+![matheus1714's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus1714&show_icons=true&theme=radical)
