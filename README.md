@@ -43,7 +43,3 @@
         <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
     </a>
 </p>
-
-<h3>My GitHub Stats</h3>
-
-![matheus1714's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus1714&show_icons=true&theme=radical)
