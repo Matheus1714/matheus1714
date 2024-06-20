@@ -1,5 +1,3 @@
-<img align="right" height="590em" src="https://github.com/Matheus1714/matheus1714/assets/39354089/41451d9a-9d8d-4957-8f81-58451cd9a9ee">
-
 <h1>Hello! I'm Matheus Mota</h1>
 
 <p>Welcome to my profile! I'm a Fullstack Developer from <img src="img/brazil.png" width="13"/> and an Aerospace Engineering at ITA, focused in Computer Science and Web Systems. 🚀</p>
