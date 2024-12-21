@@ -2,8 +2,6 @@
 
 <p>Welcome to my profile! I'm a Fullstack Developer from <img src="img/brazil.png" width="13"/> and an Aerospace Engineering at ITA, focused in Computer Science and Web Systems. 🚀</p>
 
-<p>I really enjoy developing web and mobile applications. Additionally, I've worked on projects related to Machine Learning during my college years.</p>
-
 <h3>Languages and Technologies</h3>
 <p>
 <!-- Badges: https://dev.to/envoy_/150-badges-for-github-pnk -->
